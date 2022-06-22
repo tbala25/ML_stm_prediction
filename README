@@ -1,4 +1,10 @@
 
+
+### This project intends to predict Season Ticket Holder renewal likelihood to inform retention strategy and prioritize customer segments.
+
+Find the full report here: https://github.com/tbala25/ML_stm_prediction/blob/master/Bala_Capstone_Report.pdf
+
+
 Required Libraries
 
 boto3
